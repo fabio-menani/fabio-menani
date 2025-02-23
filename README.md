@@ -1,12 +1,11 @@
 # Fabio Menani
 ### About me
-Hey there! Sou um apaixonado por dados e estou sempre buscando aprender e aplicar novas técnicas de análise e machine learning para resolver problemas de negócios.
+👋 Hi there! I’m a data enthusiast with a passion for turning raw data into actionable insights. I’m constantly exploring and applying cutting-edge techniques in data analysis and machine learning to solve real-world business challenges. Let’s connect and build something amazing together!
 
-inserir texto
-
-## Conecte-se comigo
+## How to reach me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_oshiro/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-oshiro-menani-59697435/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/fabio-menani/)
 
 ## Languages and Tools
 ### Languages
@@ -28,6 +27,8 @@ inserir texto
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ-IDEA)
+
 ### Data Platforms
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 
